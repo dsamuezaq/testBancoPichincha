@@ -1,0 +1,453 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\service.bp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj",
+        "projectName": "BancoPichinchaTest",
+        "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj",
+        "packagesPath": "C:\\Users\\David Samueza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Samueza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.TestPlatform": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\business.bp\\business.bp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\business.bp\\business.bp.csproj",
+        "projectName": "business.bp",
+        "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\business.bp\\business.bp.csproj",
+        "packagesPath": "C:\\Users\\David Samueza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\business.bp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Samueza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\dataAccess.bp\\dataAccess.bp.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\dataAccess.bp\\dataAccess.bp.csproj"
+              },
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj"
+              },
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\dataAccess.bp\\dataAccess.bp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\dataAccess.bp\\dataAccess.bp.csproj",
+        "projectName": "dataAccess.bp",
+        "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\dataAccess.bp\\dataAccess.bp.csproj",
+        "packagesPath": "C:\\Users\\David Samueza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\dataAccess.bp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Samueza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj"
+              },
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj",
+        "projectName": "model.bp",
+        "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj",
+        "packagesPath": "C:\\Users\\David Samueza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Samueza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\service.bp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\service.bp.csproj",
+        "projectName": "service.bp",
+        "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\service.bp.csproj",
+        "packagesPath": "C:\\Users\\David Samueza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Samueza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj"
+              },
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\business.bp\\business.bp.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\business.bp\\business.bp.csproj"
+              },
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj"
+              },
+              "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj": {
+                "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj",
+        "projectName": "transversal.bp",
+        "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj",
+        "packagesPath": "C:\\Users\\David Samueza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\David Samueza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

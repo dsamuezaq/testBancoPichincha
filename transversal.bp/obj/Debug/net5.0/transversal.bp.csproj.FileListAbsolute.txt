@@ -1,0 +1,16 @@
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\bin\Debug\net5.0\transversal.bp.exe
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\bin\Debug\net5.0\transversal.bp.deps.json
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\bin\Debug\net5.0\transversal.bp.runtimeconfig.json
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\bin\Debug\net5.0\transversal.bp.runtimeconfig.dev.json
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\bin\Debug\net5.0\transversal.bp.dll
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\bin\Debug\net5.0\transversal.bp.pdb
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\transversal.bp.csproj.AssemblyReference.cache
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\transversal.bp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\transversal.bp.AssemblyInfoInputs.cache
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\transversal.bp.AssemblyInfo.cs
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\transversal.bp.csproj.CoreCompileInputs.cache
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\transversal.bp.dll
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\refint\transversal.bp.dll
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\transversal.bp.pdb
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\transversal.bp.genruntimeconfig.cache
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\transversal.bp\obj\Debug\net5.0\ref\transversal.bp.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKHRK2JQ6Dk3hy+RIpCjnmdWek6sUJGnN81CQwxhklUvzyYiRbvVUf2sM+9ojm+E5OtK6s+ReFnzGg7WXh3wKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\bp.service\\bp.service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David Samueza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

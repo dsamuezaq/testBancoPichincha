@@ -1,0 +1,12 @@
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\bin\Debug\net5.0\BancoPichinchaTest.deps.json
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\bin\Debug\net5.0\BancoPichinchaTest.dll
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\bin\Debug\net5.0\BancoPichinchaTest.pdb
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\BancoPichinchaTest.csproj.AssemblyReference.cache
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\BancoPichinchaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\BancoPichinchaTest.AssemblyInfoInputs.cache
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\BancoPichinchaTest.AssemblyInfo.cs
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\BancoPichinchaTest.csproj.CoreCompileInputs.cache
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\BancoPichinchaTest.dll
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\refint\BancoPichinchaTest.dll
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\BancoPichinchaTest.pdb
+C:\Users\David Samueza\source\repos\BancoPichinchaTest\BancoPichinchaTest\obj\Debug\net5.0\ref\BancoPichinchaTest.dll
