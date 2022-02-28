@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj": {}
+    "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\BancoPichinchaTest\\BancoPichinchaTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj": {
+    "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\BancoPichinchaTest\\BancoPichinchaTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj",
+        "projectUniqueName": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\BancoPichinchaTest\\BancoPichinchaTest.csproj",
         "projectName": "BancoPichinchaTest",
-        "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj",
+        "projectPath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\BancoPichinchaTest\\BancoPichinchaTest.csproj",
         "packagesPath": "C:\\Users\\David Samueza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\obj\\",
+        "outputPath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\BancoPichinchaTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

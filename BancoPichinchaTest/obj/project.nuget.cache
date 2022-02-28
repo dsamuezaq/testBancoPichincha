@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cJBMMoOv2Qprf5fCfkUBo8dFEnoLysC3HX3W4ca/IlDqcRpI30qpigFbiyoKY2hpPmKiNbk3OYKZRPZYRvbc5w==",
+  "dgSpecHash": "1hqP+JHyo7r0ZankmQZigeTAI3/V9abf2tlmwMO181dJGgcIj4J9OQbfZ82GyR0wtbLpwCkceEAF8ym3rePxYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj",
+  "projectFilePath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\BancoPichinchaTest\\BancoPichinchaTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David Samueza\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\David Samueza\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

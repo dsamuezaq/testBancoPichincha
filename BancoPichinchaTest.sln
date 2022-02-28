@@ -27,7 +27,18 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "business.bp", "business.bp\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "transversal.bp", "transversal.bp\transversal.bp.csproj", "{5DEFCBC0-041F-4B67-8978-B1812A0293D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{02CB683F-D344-4146-AD90-17B90E82CE36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{02CB683F-D344-4146-AD90-17B90E82CE36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entregables", "Entregables", "{3345B28D-9D33-467E-8B70-F3D1EC98B37A}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\1. Creación de Cliente.json = ..\..\..\Downloads\1. Creación de Cliente.json
+		..\..\..\Downloads\2. Creación de Cuentas de Cliente..json = ..\..\..\Downloads\2. Creación de Cuentas de Cliente..json
+		..\..\..\Downloads\3. Realizar los siguientes movimientos.json = ..\..\..\Downloads\3. Realizar los siguientes movimientos.json
+		..\..\..\Downloads\4. Listado de Movimiento, por fechas x usuario..json = ..\..\..\Downloads\4. Listado de Movimiento, por fechas x usuario..json
+		..\..\..\Documents\BaseDatos.sql = ..\..\..\Documents\BaseDatos.sql
+		..\..\..\Documents\Docker Run.docx = ..\..\..\Documents\Docker Run.docx
+		..\..\..\Desktop\unitTest.docx = ..\..\..\Desktop\unitTest.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

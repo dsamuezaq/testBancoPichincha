@@ -8456,11 +8456,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\service.bp.csproj",
+      "projectUniqueName": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\service.bp\\service.bp.csproj",
       "projectName": "service.bp",
-      "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\service.bp.csproj",
+      "projectPath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\service.bp\\service.bp.csproj",
       "packagesPath": "C:\\Users\\David Samueza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\obj\\",
+      "outputPath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\service.bp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -8483,17 +8483,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj": {
-              "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\BancoPichinchaTest\\BancoPichinchaTest.csproj"
+            "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\BancoPichinchaTest\\BancoPichinchaTest.csproj": {
+              "projectPath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\BancoPichinchaTest\\BancoPichinchaTest.csproj"
             },
-            "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\business.bp\\business.bp.csproj": {
-              "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\business.bp\\business.bp.csproj"
+            "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\business.bp\\business.bp.csproj": {
+              "projectPath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\business.bp\\business.bp.csproj"
             },
-            "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj": {
-              "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\model.bp\\model.bp.csproj"
+            "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\model.bp\\model.bp.csproj": {
+              "projectPath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\model.bp\\model.bp.csproj"
             },
-            "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj": {
-              "projectPath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\transversal.bp\\transversal.bp.csproj"
+            "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\transversal.bp\\transversal.bp.csproj": {
+              "projectPath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\transversal.bp\\transversal.bp.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d2zWet3lqQH3fXXJ3ZrpFwdciPm/k1tlZE1u1IBdw03edyyYI8cd61GkXc7jPt+wRBlHWBuDF4LXQOtcxiO2hA==",
+  "dgSpecHash": "7MtC8Tkb45zeK7owk3L74Js6WNTYWafgiSjBhHklsUABNlVJ0LZMOgV/vqq7mWgj30fZMhnnUP0afsk4DyejMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David Samueza\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\David Samueza\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

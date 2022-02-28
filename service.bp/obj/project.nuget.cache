@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yfzBy+uawAX0bwynYOKLMrUxwgHPgGQjGpMMYOC3qit0iSBe0Hj35KvheF+twifcFi84QoZFpWGiHYjerxqelA==",
+  "dgSpecHash": "chUfnwXGizSyur0UYimBZewIaqiBPtsmTzTz+n4Jl5p3aOaoPyKXrblwOFjNxXi+478h+bRN1Ykv5dooM0nLsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\David Samueza\\source\\repos\\BancoPichinchaTest\\service.bp\\service.bp.csproj",
+  "projectFilePath": "C:\\Users\\David Samueza\\Source\\Repos\\testBancoPichincha\\service.bp\\service.bp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David Samueza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\David Samueza\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
