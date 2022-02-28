@@ -1,0 +1,98 @@
+{
+  "result": {
+    "status": "Ok",
+    "messege": "Consulta Exitosa",
+    "error": null,
+    "data": [
+      {
+        "fecha": "2022-02-28T14:41:29.817",
+        "cliente": "David Samueza",
+        "numero_Cuenta": 2495,
+        "tipo": "corriente                                         ",
+        "saldo_inicial": 345,
+        "estado": "A",
+        "movimiento": 345,
+        "saldo_disponible": 345
+      },
+      {
+        "fecha": "2022-02-28T15:01:07.087",
+        "cliente": "David Samueza",
+        "numero_Cuenta": 2495,
+        "tipo": "corriente                                         ",
+        "saldo_inicial": 345,
+        "estado": "A",
+        "movimiento": 200,
+        "saldo_disponible": 545
+      },
+      {
+        "fecha": "2022-02-28T15:01:43.077",
+        "cliente": "David Samueza",
+        "numero_Cuenta": 2495,
+        "tipo": "corriente                                         ",
+        "saldo_inicial": 345,
+        "estado": "A",
+        "movimiento": -200,
+        "saldo_disponible": 345
+      },
+      {
+        "fecha": "2022-02-28T15:02:17.647",
+        "cliente": "David Samueza",
+        "numero_Cuenta": 2495,
+        "tipo": "corriente                                         ",
+        "saldo_inicial": 345,
+        "estado": "A",
+        "movimiento": 1000,
+        "saldo_disponible": 1345
+      },
+      {
+        "fecha": "2022-02-28T15:02:32.617",
+        "cliente": "David Samueza",
+        "numero_Cuenta": 2495,
+        "tipo": "corriente                                         ",
+        "saldo_inicial": 345,
+        "estado": "A",
+        "movimiento": -1000,
+        "saldo_disponible": 345
+      },
+      {
+        "fecha": "2022-02-28T15:03:10.437",
+        "cliente": "David Samueza",
+        "numero_Cuenta": 2495,
+        "tipo": "corriente                                         ",
+        "saldo_inicial": 345,
+        "estado": "A",
+        "movimiento": 1000,
+        "saldo_disponible": 1345
+      },
+      {
+        "fecha": "2022-02-28T17:20:34.457",
+        "cliente": "David Samueza",
+        "numero_Cuenta": 33000,
+        "tipo": "Ahorros                                           ",
+        "saldo_inicial": 200,
+        "estado": "A",
+        "movimiento": 200,
+        "saldo_disponible": 200
+      },
+      {
+        "fecha": "2022-02-28T17:24:56.663",
+        "cliente": "David Samueza",
+        "numero_Cuenta": 33000,
+        "tipo": "Ahorros                                           ",
+        "saldo_inicial": 200,
+        "estado": "A",
+        "movimiento": 200,
+        "saldo_disponible": 200
+      }
+    ]
+  },
+  "id": 93,
+  "exception": null,
+  "status": 5,
+  "isCanceled": false,
+  "isCompleted": true,
+  "isCompletedSuccessfully": true,
+  "creationOptions": 0,
+  "asyncState": null,
+  "isFaulted": false
+}

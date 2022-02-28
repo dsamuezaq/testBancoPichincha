@@ -1,0 +1,74 @@
+{
+  "result": {
+    "status": "Ok",
+    "messege": "Consulta Exitosa",
+    "error": null,
+    "data": [
+      {
+        "numero_Cuenta": 2495,
+        "tipo": "Deposito",
+        "saldo_Inicial": 345,
+        "estado": "A",
+        "movimiento": "Deposito 345,0000"
+      },
+      {
+        "numero_Cuenta": 2495,
+        "tipo": "Deposito",
+        "saldo_Inicial": 345,
+        "estado": "A",
+        "movimiento": "Deposito 200,0000"
+      },
+      {
+        "numero_Cuenta": 2495,
+        "tipo": "Retiro",
+        "saldo_Inicial": 345,
+        "estado": "A",
+        "movimiento": "Retiro 200,0000"
+      },
+      {
+        "numero_Cuenta": 2495,
+        "tipo": "Deposito",
+        "saldo_Inicial": 345,
+        "estado": "A",
+        "movimiento": "Deposito 1000,0000"
+      },
+      {
+        "numero_Cuenta": 2495,
+        "tipo": "Retiro",
+        "saldo_Inicial": 345,
+        "estado": "A",
+        "movimiento": "Retiro 1000,0000"
+      },
+      {
+        "numero_Cuenta": 2495,
+        "tipo": "Deposito",
+        "saldo_Inicial": 345,
+        "estado": "A",
+        "movimiento": "Deposito 1000,0000"
+      },
+      {
+        "numero_Cuenta": 33000,
+        "tipo": "Deposito",
+        "saldo_Inicial": 200,
+        "estado": "A",
+        "movimiento": "Deposito 200,0000"
+      },
+      {
+        "numero_Cuenta": 33000,
+        "tipo": "Deposito",
+        "saldo_Inicial": 200,
+        "estado": "A",
+        "movimiento": "Deposito 200,0000"
+      }
+    ]
+  },
+  "id": 88,
+  "exception": null,
+  "status": 5,
+  "isCanceled": false,
+  "isCompleted": true,
+  "isCompletedSuccessfully": true,
+  "creationOptions": 0,
+  "asyncState": null,
+  "isFaulted": false
+}

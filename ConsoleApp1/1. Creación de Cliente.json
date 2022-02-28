@@ -1,0 +1,25 @@
+{
+  "result": {
+    "status": "Ok",
+    "messege": "Consulta Exitosa",
+    "error": null,
+    "data": [
+      {
+        "nombres": "David Samueza",
+        "dirección": "Ponceano",
+        "teléfono": "0984903535",
+        "contraseña": "1234",
+        "estado": "A"
+      }
+    ]
+  },
+  "id": 68,
+  "exception": null,
+  "status": 5,
+  "isCanceled": false,
+  "isCompleted": true,
+  "isCompletedSuccessfully": true,
+  "creationOptions": 0,
+  "asyncState": null,
+  "isFaulted": false
+}
