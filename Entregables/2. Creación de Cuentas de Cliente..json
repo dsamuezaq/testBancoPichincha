@@ -1,0 +1,60 @@
+{
+  "result": {
+    "status": "Ok",
+    "messege": "Consulta Exitosa",
+    "error": null,
+    "data": [
+      {
+        "numero_Cuenta": 2490,
+        "tipo": "Ahorros                                           ",
+        "saldo_Inicial": 3400,
+        "estado": "A",
+        "cliente": "David Samueza"
+      },
+      {
+        "numero_Cuenta": 2491,
+        "tipo": "Corriente                                         ",
+        "saldo_Inicial": 343,
+        "estado": "A",
+        "cliente": "David Samueza"
+      },
+      {
+        "numero_Cuenta": 2493,
+        "tipo": "Ahorros                                           ",
+        "saldo_Inicial": 400,
+        "estado": "A",
+        "cliente": "David Samueza"
+      },
+      {
+        "numero_Cuenta": 2495,
+        "tipo": "corriente                                         ",
+        "saldo_Inicial": 345,
+        "estado": "A",
+        "cliente": "David Samueza"
+      },
+      {
+        "numero_Cuenta": 33000,
+        "tipo": "Ahorros                                           ",
+        "saldo_Inicial": 200,
+        "estado": "A",
+        "cliente": "David Samueza"
+      },
+      {
+        "numero_Cuenta": 33000,
+        "tipo": "Ahorros                                           ",
+        "saldo_Inicial": 200,
+        "estado": "A",
+        "cliente": "David Samueza"
+      }
+    ]
+  },
+  "id": 84,
+  "exception": null,
+  "status": 5,
+  "isCanceled": false,
+  "isCompleted": true,
+  "isCompletedSuccessfully": true,
+  "creationOptions": 0,
+  "asyncState": null,
+  "isFaulted": false
+}

@@ -14,7 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BancoPichinchaTest\BancoPichinchaTest.csproj" />
     <ProjectReference Include="..\business.bp\business.bp.csproj" />
     <ProjectReference Include="..\model.bp\model.bp.csproj" />
     <ProjectReference Include="..\transversal.bp\transversal.bp.csproj" />
